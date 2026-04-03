@@ -13,7 +13,7 @@
 
 
 
-I spent 10+ years in product — most recently as PM at a fashion e-commerce company where I built AI systems, scaled an internal platform to 200+ users, and eliminated 80% of manual work for team leads through automation.
+I spent 4+ years in product — most recently as PM at a fashion e-commerce company where I built AI systems, scaled an internal platform to 200+ users, and eliminated 80% of manual work for team leads through automation.
 
 
 
