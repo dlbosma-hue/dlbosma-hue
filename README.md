@@ -18,7 +18,7 @@ I spent 4+ years in product — most recently as PM at a fashion e-commerce comp
 
 
 
-Now I'm going deeper on the technical side: hands-on Python, ML, and AI tooling — because I believe the best product decisions come from people who can build too.
+Now I'm going deeper on the technical side: hands-on Python, ML, and AI tooling; because I believe the best product decisions come from people who can build as well.
 
 
 
