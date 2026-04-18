@@ -73,8 +73,8 @@ I recently completed the Ironhack AI Consultancy Bootcamp, working through real 
 
 
 🌍 Based in Berlin &nbsp;|&nbsp; 🗣 Dutch · English · German 
-📦 Product roots: OKRs, roadmaps, user research, cross-functional teams  
-✨ I think the most interesting problems sit at the intersection of people and technology
+📦 Product roots: OKRs, roadmaps, user research, cross-functional teams.  
+✨ I think the most interesting problems sit at the intersection of people and technology.
 
 
 
