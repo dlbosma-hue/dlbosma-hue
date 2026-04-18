@@ -12,9 +12,7 @@
 
 
 
-
-I spent 4+ years in product — most recently as PM at a fashion e-commerce company where I built AI systems, scaled an internal platform to 200+ users, and eliminated 80% of manual work for team leads through automation.
-
+I spent 4+ years in product; most recently as PM at a fashion e-commerce company where I built AI systems, scaled an internal platform to 200+ users, and eliminated 70% of manual work for team leads through automation.
 
 
 
@@ -22,8 +20,7 @@ Now I'm going deeper on the technical side: hands-on Python, ML, and AI tooling;
 
 
 
-
-I'm currently completing the Ironhack AI Consultancy Bootcamp, working through real AI implementation projects.
+I recently completed the Ironhack AI Consultancy Bootcamp, working through real AI implementation projects.
 
 
 
@@ -59,7 +56,7 @@ I'm currently completing the Ironhack AI Consultancy Bootcamp, working through r
 
 
 
-- 🤖 AI consultancy projects — classification models, API integrations, bias red-teaming
+- 🤖 AI consultancy projects: classification models, API integrations, bias red-teaming
 
 - - 🔧 MCP server setup & agentic tooling
  
@@ -75,7 +72,7 @@ I'm currently completing the Ironhack AI Consultancy Bootcamp, working through r
 
 
 
-🌍 Based in Berlin &nbsp;|&nbsp; 🗣 Dutch · English · German · Russian  
+🌍 Based in Berlin &nbsp;|&nbsp; 🗣 Dutch · English · German 
 📦 Product roots: OKRs, roadmaps, user research, cross-functional teams  
 ✨ I think the most interesting problems sit at the intersection of people and technology
 
@@ -92,5 +89,5 @@ I'm currently completing the Ironhack AI Consultancy Bootcamp, working through r
 
 
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/dina-bosma-buczynska)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dina-bosma-buczynska-b1a64544/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:dlbosma@gmail.com)
